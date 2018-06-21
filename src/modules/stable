@@ -1,7 +1,6 @@
 rlm_always
 rlm_attr_filter
 rlm_cache
-rlm_chap
 rlm_counter
 rlm_detail
 rlm_dhcp
